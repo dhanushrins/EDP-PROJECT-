@@ -1,0 +1,12 @@
+ABSTRACT 
+
+The Skin Response Meter is an electronic circuit designed to measure changes in skin resistance, which varies based on 
+a person's emotional state. By monitoring the skin's electrical conductivity, the device provides real-time feedback on 
+stress levels and relaxation effectiveness. This tool is valuable for tracking physiological changes related to emotional 
+stress and can aid in relaxation training and stress management.
+
+INTRODUCTION 
+
+A device that enables continuous, accurate monitoring of physiological responses. The circuit employs a sensitive
+amplifier to convert skin resistance into a measurable voltage, which is then displayed through a meter and LED indicators. 
+The device will be designed for individuals seeking to monitor and manage their stress levels.
