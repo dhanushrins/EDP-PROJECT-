@@ -1,0 +1,12 @@
+(ABSTRACT)
+
+Fog machines enhance emergency responder training by simulating low-visibility conditions and creating controlled 
+environments for research and testing purposes.The circuit design will be simple and user-friendly, allowing non-technical 
+users to operate and adjust the fog maker without complications.
+
+(INTRODUCTION)
+
+The fog maker machine is to generate mist or fog by using ultrasonic vibration. The machine will convert electrical 
+energy into ultrasonic waves, which agitate water to produce fog. This system is controlled using a 555 timer IC, and the
+design will focus on efficient operation, simplicity, and component optimization to produce a reliable fog generation 
+system.
